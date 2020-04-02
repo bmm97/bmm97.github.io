@@ -1,3 +1,6 @@
 [submodule "coronavirus"]
 	path = coronavirus
 	url = https://github.com/bmm97/coronavirus.git
+[submodule "corona"]
+	path = corona
+	url = https://github.com/bmm97/coronavirus
